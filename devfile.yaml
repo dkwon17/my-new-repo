@@ -15,3 +15,10 @@ projects:
       remotes:
         origin: 'https://github.com/dkwon17/my-new-repo'
     name: my-cool-new-repo
+  - git:
+      checkoutFrom:
+        remote: origin
+      remotes:
+        origin: 'https://github.com/dkwon17/failing-workspace'
+    name: an-even-cooler-repo
+
