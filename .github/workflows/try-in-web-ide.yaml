@@ -2,7 +2,7 @@ name: try-in-web-ide
 
 on:
   pull_request_target: 
-    types: [opened, synchronize]
+    types: [opened]
 
 jobs:
   add-link:
