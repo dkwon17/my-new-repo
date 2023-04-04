@@ -1,3 +1,1 @@
 # my-new-repo
-
-test
